@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="form.js"></script>
+    </head>
+    <body>
+         <p> Add a new card </p>
+        <form>
+            <label for="cname"> Type card name here </label> <br>
+            <input type="text" id="cardn" name="cname" placeholder="Card Name" onchange="f2(this)">
+            <br>
+            <p> Combined mana cost </p>
+            <input type="number" name="Cost" placeholder="add number here"><br>
+            <input type="checkbox" id="card" name="Cost" value="X">
+            <label for="X"> where mana cost is chosen by player / equal to 'X'</label><br>
+            <button type="submit" onclick="f1()" formaction="index.html"> Submit </button>
+        </form>
+    </body>
+</html>

@@ -1,0 +1,139 @@
+.body {
+    background-color: darkorchid;
+    text-align: center;
+}
+
+.body2 {
+  background-color: darkorchid;
+  text-align: center;
+}
+
+.backgroundMana {
+  background-image: url(child\ of\ alara.jpg);
+  background-repeat: no-repeat;
+  background-size: 30%;
+  margin: auto;
+  background-position: left 0%;
+}
+
+.backgroundWold {
+  background-image: url(werewolf.jpeg);
+  background-repeat: no-repeat;
+  margin: auto;
+  background-position: left 0%;
+}
+
+.backgroundslug {
+  background-image: url(toxrill.jpeg);
+  background-repeat: no-repeat;
+  margin: auto;
+  background-position: left 0%;
+
+}
+
+.backgroundmill {
+  background-image: url(phenax.jpg);
+  background-repeat: no-repeat;
+  background-size: 30%;
+  margin: auto;
+  background-position: left 0%;
+  background-color: darkblue;
+}
+
+.container {
+  background-color: rgb(255,255,255, 0.4);
+  max-width: fit-content;
+  padding-right: 60px;
+  text-align: center;
+  color: bisque;
+}
+
+.mana {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+ .table {   
+    border-width: medium;
+    width: 100%;
+    background-color: rgb(241, 234, 234, .8);
+    margin: auto;
+ }
+
+ .table2 {
+     border-width: medium;
+     width: 100%;
+     background-color:rgb(241, 234, 234, .8);
+     width: 50%;
+     margin: auto;  
+ }
+
+ .dropbtn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+
+  .dropdown-content a:hover {background-color: #ddd;}
+
+  .dropdown:hover .dropdown-content {display: block;}
+
+  .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+  .footer {
+    background-color: DarkSalmon;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+    text-align: center;
+    }
+
+
+
+    .title {
+      background-color: black;
+      background-image: radial-gradient(black, white);
+      background-repeat: no-repeat;
+      text-align: center;
+      border: solid 1px rgb(1, 1, 1, );
+      vertical-align: middle;
+      max-width: fit-content;
+      padding-left: 10px;
+      padding-right: 10px;
+      margin: auto;
+      color: white;
+    }
+
+    .meme {
+      border:black;
+      margin: right;
+      max-width: fit-content;
+    }
+
+  

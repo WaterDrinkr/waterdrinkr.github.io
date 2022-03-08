@@ -1,0 +1,4 @@
+6. add form to add new cards to database
+7. try and make database 
+8. link database to form and see if works
+9. add hover images to the mill deck ttc is down atm
